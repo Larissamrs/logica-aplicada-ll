@@ -2,9 +2,6 @@
 
 **Semana 3 – Teoria + Prática**
 
-<br>
-<br>
-
 ------
 ### 0. Breve apresentação
 
@@ -58,7 +55,7 @@ Eu me chamo Larissa, sou aluna do Reprograma na turma On12 de 2021.1 e é um pra
 
   ------
 
-  
+  <br>
 
 ## Larissa Maria
 - [linkedin](https://www.linkedin.com/in/lmrs99/)
